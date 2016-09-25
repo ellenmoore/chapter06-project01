@@ -69,4 +69,7 @@ form p {
 .rounded:hover {
    background-color: #7f8dad;
 }
+.blank {
+	background-color: #ff0000;
+}
 
